@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/bin/Debug/net5.0/StaticExercise.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/bin/Debug/net5.0/StaticExercise.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/bin/Debug/net5.0/StaticExercise.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/bin/Debug/net5.0/StaticExercise.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/bin/Debug/net5.0/ref/StaticExercise.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/bin/Debug/net5.0/StaticExercise.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/StaticExercise.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/StaticExercise.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/StaticExercise.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/ref/StaticExercise.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/StaticExercise.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/StaticExercise/obj/Debug/net5.0/StaticExercise.genruntimeconfig.cache
